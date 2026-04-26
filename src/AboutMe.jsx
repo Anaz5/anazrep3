@@ -16,20 +16,22 @@ const MAIN_IMAGES = [mainm, mainm2, mainf];
 
 const REVEAL_CONTENT = [
   {
-    upper: ["name moneybagg", "age:23"],
-    lower: "major: computer science",
+    upper: ["name anazyzz", "age:19"],
+    lower: "major: data science",
   },
   {
     upper: [
-      "Cleopatra lived closer to the Moon landing than to the building of the pyramids.",
-      "Vikings kept cats on ships for pest control (and vibes).",
-      "In medieval Europe, animals could be put on trial for crimes",
+     “Closer to building his future than to the days of his first game—yet the grind continues, like empires in the making.”
+“Fueled by curiosity and restless nights, much like the thinkers who shaped history.”
+“Not a master of the craft yet, but no longer a novice—standing somewhere between apprentice and legend.”
+“Like early explorers, he moves forward without a map—guided only by ambition.”
+“Still in his early chapters, but every step echoes the rise of something greater.”
     ],
     lower: "abbove is some history fun fact",
   },
   {
     upper: [
-      "Oxford University founding is older than the Aztec Empire.",
+      "bdu University founding is older than the Aztec Empire.",
       "The shortest war in history lasted 38–45 minutes (Britain vs Zanzibar).",
       "Humans have been writing for ~5,000 years",
     ],
