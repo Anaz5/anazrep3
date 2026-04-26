@@ -16,26 +16,26 @@ const MAIN_IMAGES = [mainm, mainm2, mainf];
 
 const REVEAL_CONTENT = [
   {
-    upper: ["name anaz", "age:19"],
+    upper: ["name: anaz", "age: 19"],
     lower: "major: data science",
   },
   {
     upper: [
-     “Closer to building his future than to the days of his first game—yet the grind continues, like empires in the making.”,
-“Fueled by curiosity and restless nights, much like the thinkers who shaped history.”,
-“Not a master of the craft yet, but no longer a novice—standing somewhere between apprentice and legend.”,
-“Like early explorers, he moves forward without a map—guided only by ambition.”,
-“Still in his early chapters, but every step echoes the rise of something greater.”,
+      "Closer to building his future than to the days of his first game—yet the grind continues.",
+      "Fueled by curiosity and restless nights.",
+      "Not a master of the craft yet, but no longer a novice.",
+      "Like early explorers, he moves forward without a map.",
+      "Still in his early chapters, but every step echoes something greater.",
     ],
-    lower: "abbove is some history fun fact",
+    lower: "above is some fun facts about me",
   },
   {
     upper: [
-      "bdu University founding is older than the Aztec Empire.",
-      "The shortest war in history lasted 38–45 minutes (Britain vs Zanzibar).",
-      "Humans have been writing for ~5,000 years",
+      "BDU University founding is older than the Aztec Empire.",
+      "The shortest war in history lasted 38–45 minutes.",
+      "Humans have been writing for ~5,000 years.",
     ],
-    lower: "yes it's a place holder",
+    lower: "yes it's a placeholder",
   },
 ];
 
