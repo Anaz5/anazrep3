@@ -21,11 +21,11 @@ const REVEAL_CONTENT = [
   },
   {
     upper: [
-     “Closer to building his future than to the days of his first game—yet the grind continues, like empires in the making.”
-“Fueled by curiosity and restless nights, much like the thinkers who shaped history.”
-“Not a master of the craft yet, but no longer a novice—standing somewhere between apprentice and legend.”
-“Like early explorers, he moves forward without a map—guided only by ambition.”
-“Still in his early chapters, but every step echoes the rise of something greater.”
+     “Closer to building his future than to the days of his first game—yet the grind continues, like empires in the making.”,
+“Fueled by curiosity and restless nights, much like the thinkers who shaped history.”,
+“Not a master of the craft yet, but no longer a novice—standing somewhere between apprentice and legend.”,
+“Like early explorers, he moves forward without a map—guided only by ambition.”,
+“Still in his early chapters, but every step echoes the rise of something greater.”,
     ],
     lower: "abbove is some history fun fact",
   },
@@ -55,7 +55,7 @@ const ITEMS = [
     ],
   },
   {
-    id: "instagram", label: "FUN FACT ABOUT ME", handle: "anaz__m_", href: https://www.instagram.com/anaz__m_/, icon: "📷", barIcon: icon2, bars: 5, newBars: [1, 2], counts: ["3.4M", "2.5M", "676K", "412K", "198K"],
+    id: "instagram", label: "FUN FACT ABOUT ME", handle: "anaz__m_", href: "https://www.instagram.com/anaz__m_/", icon: "📷", barIcon: icon2, bars: 5, newBars: [1, 2], counts: ["3.4M", "2.5M", "676K", "412K", "198K"],
     links: ["instagram.com/p/C4xQmRrNk2a", "instagram.com/p/C3wLpBsOj7f", "instagram.com/reel/C2vKoArMi6e", "instagram.com/p/C1uJnZqLh5d", "instagram.com/reel/C0tImYpKg4c"],
     stats: [
       { tag: "FOL", value: "3.4K", color: "#e1306c" },
