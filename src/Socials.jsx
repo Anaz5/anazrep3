@@ -21,7 +21,6 @@ const ROLES = [
 const ITEMS = [
   {
     id: "twitch", label: "TWITCH", handle: "@yourname", href: "https://twitch.tv/yourname", icon: "🎮", barIcon: icon1, bars: 1, newBars: [0], counts: ["56"],
-    links: ["twitch.tv/videos/2041837265"],
     stats: [
       { tag: "FOL", value: "1.2K", color: "#9147ff" },
       { tag: "VWR", value: "042",  color: "#bf94ff" },
@@ -29,7 +28,6 @@ const ITEMS = [
   },
   {
     id: "instagram", label: "INSTAGRAM", handle: "@anaz__m_", href: "https://www.instagram.com/anaz__m_/", icon: "📷", barIcon: icon2, bars: 5, newBars: [1, 2], counts: ["3.4M", "2.5M", "676K", "412K", "198K"],
-    links: ["EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY"],
     stats: [
       { tag: "FOL", value: "281", color: "#e1306c" },
       { tag: "PST", value: "0",  color: "#f77737" },
@@ -37,7 +35,6 @@ const ITEMS = [
   },
   {
     id: "tiktok", label: "TIKTOK", handle: "@yourhandle", href: "https://tiktok.com/@yourhandle", icon: "🎵", barIcon: icon3, bars: 7, newBars: [0, 3, 5, 6], counts: ["5.1M", "3.7M", "2.2M", "1.4M", "831K", "490K", "217K"],
-    links: ["EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY", "EMPTY"],
     stats: [
       { tag: "FOL", value: "0", color: "#00f2ea" },
       { tag: "LKS", value: "0",  color: "#ff0050" },
