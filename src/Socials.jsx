@@ -36,7 +36,7 @@ const ITEMS = [
     ],
   },
   {
-    id: "tiktok", label: "TIKTOK", handle: "@yourhandle", href: "https://tiktok.com/@yourhandle", icon: "🎵", barIcon: icon3, bars: 0, newBars: [], counts: [],
+    id: "tiktok", label: "TIKTOK", handle: "@am_anz", href: "https://www.tiktok.com/@am_anz", icon: "🎵", barIcon: icon3, bars: 0, newBars: [], counts: [],
     links: [],
     stats: [
       { tag: "FOL", value: "0", color: "#00f2ea" },
