@@ -30,11 +30,10 @@ const REVEAL_CONTENT = [
   },
   {
     upper: [
-      "BDU University",
-      "The shortest war in history lasted 38–45 minutes.",
-      "Humans have been writing for ~5,000 years.",
+      "................",
+      
     ],
-    lower: "yes it's a placeholder",
+    lower: "#$%^*!",
   },
 ];
 
