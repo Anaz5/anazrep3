@@ -11,7 +11,7 @@ const ITEMS = [
 const EDUCATION_ROWS = [
   { index: "01", title: "General Education", status: "Complete" },
   { index: "02", title: "data Science Core", status: "In Progress" },
-  { index: "03", title: "NONE", status: "Queued" },
+  { index: "03", title: "NONE", status: "pending" },
   { index: "04", title: "NONE", status: "Pending" },
 ];
 
