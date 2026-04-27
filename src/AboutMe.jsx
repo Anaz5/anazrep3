@@ -21,7 +21,6 @@ const REVEAL_CONTENT = [
   },
   {
     upper: [
-      "Closer to building his future than to the days of his first game—yet the grind continues.",
       "Fueled by curiosity and restless nights.",
       "Not a master of the craft yet, but no longer a novice.",
       "Like early explorers, he moves forward without a map.",
@@ -31,7 +30,7 @@ const REVEAL_CONTENT = [
   },
   {
     upper: [
-      "BDU University founding is older than the Aztec Empire.",
+      "BDU University",
       "The shortest war in history lasted 38–45 minutes.",
       "Humans have been writing for ~5,000 years.",
     ],
@@ -47,7 +46,7 @@ const ROLES = [
 
 const ITEMS = [
   {
-    id: "twitch", label: "ABOUT ME", handle: "@yourname", href: "https://twitch.tv/yourname", icon: "🎮", barIcon: icon1, bars: 1, newBars: [0], counts: ["56"],
+    id: "twitch", label: "ABOUT ME", handle: "@anasz999", href: "https://www.twitch.tv/anasz999", icon: "🎮", barIcon: icon1, bars: 1, newBars: [0], counts: ["56"],
     links: ["twitch.tv/videos/2041837265"],
     stats: [
       { tag: "FOL", value: "1.2K", color: "#9147ff" },
