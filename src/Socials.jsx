@@ -20,11 +20,11 @@ const ROLES = [
 
 const ITEMS = [
   {
-    id: "twitch", label: "TWITCH", handle: "@yourname", href: "https://twitch.tv/yourname", icon: "🎮", barIcon: icon1, bars: 0, newBars: [], counts: [],
+    id: "twitch", label: "TWITCH", handle: "@anasz999", href: "https://www.twitch.tv/anasz999", icon: "🎮", barIcon: icon1, bars: 0, newBars: [], counts: [],
     links: [],
     stats: [
-      { tag: "FOL", value: "1.2K", color: "#9147ff" },
-      { tag: "VWR", value: "042",  color: "#bf94ff" },
+      { tag: "FOL", value: "1", color: "#9147ff" },
+      { tag: "VWR", value: "0",  color: "#bf94ff" },
     ],
   },
   {
